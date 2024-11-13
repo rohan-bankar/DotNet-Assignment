@@ -1,0 +1,14 @@
+/Users/rohan/Desktop/dotnet/StringAssignment/bin/Debug/net8.0/StringAssignment
+/Users/rohan/Desktop/dotnet/StringAssignment/bin/Debug/net8.0/StringAssignment.deps.json
+/Users/rohan/Desktop/dotnet/StringAssignment/bin/Debug/net8.0/StringAssignment.runtimeconfig.json
+/Users/rohan/Desktop/dotnet/StringAssignment/bin/Debug/net8.0/StringAssignment.dll
+/Users/rohan/Desktop/dotnet/StringAssignment/bin/Debug/net8.0/StringAssignment.pdb
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.AssemblyInfoInputs.cache
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.AssemblyInfo.cs
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.csproj.CoreCompileInputs.cache
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.dll
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/refint/StringAssignment.dll
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.pdb
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/StringAssignment.genruntimeconfig.cache
+/Users/rohan/Desktop/dotnet/StringAssignment/obj/Debug/net8.0/ref/StringAssignment.dll

@@ -1,0 +1,14 @@
+/Users/rohan/Desktop/dotnet/ArrayAssignment/bin/Debug/net8.0/ArrayAssignment
+/Users/rohan/Desktop/dotnet/ArrayAssignment/bin/Debug/net8.0/ArrayAssignment.deps.json
+/Users/rohan/Desktop/dotnet/ArrayAssignment/bin/Debug/net8.0/ArrayAssignment.runtimeconfig.json
+/Users/rohan/Desktop/dotnet/ArrayAssignment/bin/Debug/net8.0/ArrayAssignment.dll
+/Users/rohan/Desktop/dotnet/ArrayAssignment/bin/Debug/net8.0/ArrayAssignment.pdb
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.AssemblyInfoInputs.cache
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.AssemblyInfo.cs
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.csproj.CoreCompileInputs.cache
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.dll
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/refint/ArrayAssignment.dll
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.pdb
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ArrayAssignment.genruntimeconfig.cache
+/Users/rohan/Desktop/dotnet/ArrayAssignment/obj/Debug/net8.0/ref/ArrayAssignment.dll

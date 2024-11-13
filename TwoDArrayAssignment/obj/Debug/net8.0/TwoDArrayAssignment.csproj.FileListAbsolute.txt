@@ -1,0 +1,14 @@
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.AssemblyInfoInputs.cache
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.AssemblyInfo.cs
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.csproj.CoreCompileInputs.cache
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/bin/Debug/net8.0/TwoDArrayAssignment
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/bin/Debug/net8.0/TwoDArrayAssignment.deps.json
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/bin/Debug/net8.0/TwoDArrayAssignment.runtimeconfig.json
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/bin/Debug/net8.0/TwoDArrayAssignment.dll
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/bin/Debug/net8.0/TwoDArrayAssignment.pdb
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.dll
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/refint/TwoDArrayAssignment.dll
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.pdb
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/TwoDArrayAssignment.genruntimeconfig.cache
+/Users/rohan/Desktop/dotnet/TwoDArrayAssignment/obj/Debug/net8.0/ref/TwoDArrayAssignment.dll
