@@ -1,0 +1,15 @@
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.AssemblyInfoInputs.cache
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.AssemblyInfo.cs
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.csproj.CoreCompileInputs.cache
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.sourcelink.json
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/bin/Debug/net8.0/ProductCrud
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/bin/Debug/net8.0/ProductCrud.deps.json
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/bin/Debug/net8.0/ProductCrud.runtimeconfig.json
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/bin/Debug/net8.0/ProductCrud.dll
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/bin/Debug/net8.0/ProductCrud.pdb
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.dll
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/refint/ProductCrud.dll
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.pdb
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ProductCrud.genruntimeconfig.cache
+/Users/rohan/Desktop/Dotnet Assignments/ProductCrud/obj/Debug/net8.0/ref/ProductCrud.dll
