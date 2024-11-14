@@ -1,0 +1,15 @@
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/bin/Debug/net8.0/DelegateAndEventAssignment
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/bin/Debug/net8.0/DelegateAndEventAssignment.deps.json
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/bin/Debug/net8.0/DelegateAndEventAssignment.runtimeconfig.json
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/bin/Debug/net8.0/DelegateAndEventAssignment.dll
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/bin/Debug/net8.0/DelegateAndEventAssignment.pdb
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.AssemblyInfoInputs.cache
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.AssemblyInfo.cs
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.csproj.CoreCompileInputs.cache
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.sourcelink.json
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.dll
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/refint/DelegateAndEventAssignment.dll
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.pdb
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/DelegateAndEventAssignment.genruntimeconfig.cache
+/Users/rohan/Desktop/Dotnet Assignments/DelegateAndEventAssignment/obj/Debug/net8.0/ref/DelegateAndEventAssignment.dll
