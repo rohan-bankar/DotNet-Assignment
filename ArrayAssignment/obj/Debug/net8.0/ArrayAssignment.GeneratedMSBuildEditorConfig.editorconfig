@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArrayAssignment
-build_property.ProjectDir = /Users/rohan/Desktop/dotnet/ArrayAssignment/
+build_property.ProjectDir = /Users/rohan/Desktop/Dotnet Assignments/ArrayAssignment/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
